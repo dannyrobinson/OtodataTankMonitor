@@ -1,0 +1,21 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Otodata Tank Monitor",
+        "description": "Enter the device code from your Nee-Vo nameplate URL (e.g. the 'WRvsWk' part of nv.otodata.com/d/WRvsWk).",
+        "data": {
+          "device_code": "Device Code",
+          "scan_interval": "Update Interval (seconds)"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Unable to connect to the Otodata API.",
+      "device_not_found": "Device not found. Check the device code."
+    },
+    "abort": {
+      "already_configured": "This device is already configured."
+    }
+  }
+}
