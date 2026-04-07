@@ -1,9 +1,10 @@
 {
   "domain": "otodata_tank",
   "name": "Otodata Tank Monitor",
-  "codeowners": [],
+  "codeowners": ["@dannyrobinson"],
   "config_flow": true,
-  "documentation": "https://github.com/",
+  "documentation": "https://github.com/dannyrobinson/OtodataTankMonitor",
+  "issue_tracker": "https://github.com/dannyrobinson/OtodataTankMonitor/issues",
   "iot_class": "cloud_polling",
   "requirements": [],
   "version": "1.0.0"
