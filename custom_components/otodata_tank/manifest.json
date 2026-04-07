@@ -4,8 +4,8 @@
   "codeowners": ["@dannyrobinson"],
   "config_flow": true,
   "documentation": "https://github.com/dannyrobinson/OtodataTankMonitor",
-  "issue_tracker": "https://github.com/dannyrobinson/OtodataTankMonitor/issues",
   "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/dannyrobinson/OtodataTankMonitor/issues",
   "requirements": [],
   "version": "1.0.0"
 }
